@@ -1,0 +1,13 @@
+# Python & Backend
+.venv/
+venv/
+__pycache__/
+chroma_db/
+.env
+
+# iOS & Xcode
+.DS_Store
+build/
+DerivedData/
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
